@@ -1,0 +1,10 @@
+$color1: #ccc;
+$color2: #ff0000;
+$color3: #ffff00;
+
+h1 {
+	background: $color1;
+	em {
+		color: $color2;
+	}
+}
